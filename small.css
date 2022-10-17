@@ -1,0 +1,169 @@
+@media (max-width: 1000px) {
+  .nav2,
+  .section1 .leaf-bottom {
+    display: none;
+  }
+  .section1-flex h1 {
+    font-size: 2rem;
+  }
+  .section1-flex h2 {
+    font-size: 1.5rem;
+  }
+  .section1-flex p {
+    font-size: 1rem;
+  }
+  .section1 .btn {
+    margin-bottom: 0;
+  }
+  .btn:hover {
+    color: white;
+  }
+  .section2 div {
+    padding-inline: 1%;
+  }
+  .section2 h1 {
+    font-size: 2rem;
+  }
+  .section2 p {
+    font-size: 1rem;
+  }
+  .slides div .heart {
+    width: auto;
+    margin-left: 80%;
+    margin-block: 2%;
+    display: block;
+  }
+  .slides div h1 {
+    font-size: 1.5rem;
+    margin-block: 3%;
+    font-family: "Playfair Display", serif;
+  }
+  .slides div p {
+    font-size: 0.8rem;
+    margin-inline: 2%;
+    text-align: center;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+  }
+  .slides div .btn2 {
+    font-size: 1rem;
+    width: 70%;
+  }
+  .section4 h1 {
+    font-size: 1rem;
+    width: 50%;
+  }
+  .section4 .flex-small h1 {
+    font-size: 3rem;
+  }
+  .flex-small img {
+    width: 10%;
+    height: auto;
+  }
+  .section4 p {
+    font-size: 1rem;
+  }
+  .section5-flex1 img {
+    width: 80%;
+  }
+  .section5-flex2 h1 {
+    font-size: 2.5rem;
+  }
+  .section5-flex2 p {
+    padding-inline-end: 5%;
+  }
+  .section5 .btn3 {
+    width: 50%;
+  }
+  .section6 .btn4 {
+    width: 40%;
+  }
+}
+@media (max-width: 517px) {
+  .nav2,
+  .section1 .leaf-bottom {
+    display: none;
+  }
+  .section1-flex h1 {
+    font-size: 1.5rem;
+  }
+  .section1-flex h2 {
+    font-size: 1rem;
+  }
+  .section1-flex p {
+    font-size: 0.8rem;
+  }
+  .section1 .btn {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+  }
+  .btn:hover {
+    color: white;
+  }
+  .section2 h1 {
+    font-size: 1rem;
+  }
+  .section2 p {
+    font-size: 0.6rem;
+  }
+  .slides div h1 {
+    font-size: 1.2rem;
+    margin-block: 3%;
+  }
+  .slides div p {
+    font-size: 0.6rem;
+    margin-inline: 2%;
+    text-align: center;
+  }
+  .slides div .btn2 {
+    font-size: 0.8rem;
+    width: 60%;
+  }
+  .section4 h1 {
+    font-size: 0.8rem;
+    width: 70%;
+  }
+  .section4 .flex-small h1 {
+    font-size: 2rem;
+  }
+  .section4 p {
+    font-size: 0.6rem;
+  }
+  .section5 .flex {
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 4%;
+  }
+  .section5 .flex div {
+    width: 100%;
+  }
+  .section5 .btn3 {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 4%;
+  }
+  .section5-flex2 p {
+    padding-inline: 2%;
+  }
+  .section6 .btn4 {
+    width: 60%;
+  }
+  .section6 h1 {
+    font-size: 2.5rem;
+  }
+  .section6 p {
+    padding-inline: 0%;
+  }
+  .section6 {
+    padding: 1% 10%;
+  }
+  footer h3{
+    font-size: .8rem;
+  }
+  footer li{
+    font-size: .6rem;
+  }
+  footer p{
+    font-size: .8rem;
+  }
+}
